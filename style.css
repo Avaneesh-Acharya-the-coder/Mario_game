@@ -1,0 +1,39 @@
+.heading{
+    width:100%;
+    font-size:18px;
+    font-family: 'Rubik Pixels', cursive;
+}
+.heading h3{
+display:inline;
+}
+.heading button{
+float:right;
+border: 1.5px solid rgb(255, 255, 255)
+}
+.big_image{
+    width:100%;
+}
+#start, #status{
+    font-size:25px;
+    font-family: 'Rubik Pixels', cursive;
+}
+h4{
+    background-color: rgba(255, 51, 0, 0.638);
+    line-height: 2;
+    margin:0px;
+}
+.modal_dialoge{
+    width: 90%;
+}
+.instruction_image{
+    display:inline-block;
+    width:40%;
+
+}
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position:center ;
+    padding: 25px;
+
+}
